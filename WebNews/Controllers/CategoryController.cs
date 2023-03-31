@@ -2,11 +2,13 @@
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using System.Web.Http.Cors;
 using BussinessLogicLayer.DTOs;
 using BussinessLogicLayer.Services;
 
 namespace WebNews.Controllers
 {
+    [EnableCors(origins: "*", headers: "*", methods: "*")]
     public class CategoryController : ApiController
     {
         [HttpGet]
