@@ -1,4 +1,4 @@
-[Docs ⬇️](https://github.com/b14ck0ps/WebNewsAPI#category-endpoints)
+[Docs ⬇️](https://github.com/b14ck0ps/WebNewsAPI#category-endpoints) &emsp; [Frontend 💻 with NextJS](https://github.com/b14ck0ps/FrontEndForNewAPI)
 ## News API
 
 This API is a news platform that provides a range of endpoints for managing news articles and categories. With this API, users can create, update, and delete categories as well as add, modify, and delete news articles. The API supports several retrieval options, including accessing news articles by ID, category, and date, and allows filtering of news articles by category and date. The endpoints are designed to be intuitive and easy to use, providing developers with a comprehensive set of tools to build custom applications that leverage the features of the API. This documentation will provide a detailed guide on how to use the API and its endpoints, along with examples of sample requests and responses.
